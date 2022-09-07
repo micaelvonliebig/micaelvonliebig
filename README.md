@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micaelvonliebig
-- 👀 I’m interested in full stack Java development
-- 🌱 I’m currently learning ... UX/UI Design, full stack Java development, SQL
+- 👀 I’m interested in full stack JavaScript development
+- 🌱 I’m currently learning ... UX/UI Design, full stack JavaScript development
 - 💞️ I’m looking to collaborate on ... interprises, IT teams, private clients...
 - 📫 How to reach me ... LinkedIn: Micael Von Liebig
 
