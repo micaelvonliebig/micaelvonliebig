@@ -60,6 +60,6 @@ If you're into any of these things too, let's connect! I'm always happy to chat 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelvonliebig&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelvonliebig&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" 
   />
 </p>
