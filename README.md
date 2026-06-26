@@ -1,12 +1,10 @@
 # 👨‍💻 Micael Von Liebig
 
-**`Back-end Developer | Node.js | TypeScript | Web3`**
+**`Back-end Developer | Node.js | TypeScript`**
 
 Hey there! I'm a `Back-end Developer` who fell in love with technology as a kid and never looked back. Since `2020`, I've been diving deep into software development, turning my passion into my profession.
 
-These days, you'll find me working with `Node.js (TypeScript)` and exploring `WEB3` and `Cloud` technologies.
-
-Always interested about `Blockchain Engineering`, `Cryptocurrencies` and `Solidity` ecosystem.
+These days, you'll find me working with `Node.js (TypeScript)` and exploring `Cloud` technologies.
 
 I love solving problems and creating solutions that make difference. I'm always up for learning something new or tackling an unexpected challenge.
 
@@ -20,7 +18,6 @@ If you're into any of these things too, let's connect! I'm always happy to chat 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
