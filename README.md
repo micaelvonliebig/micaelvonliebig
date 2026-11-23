@@ -1,62 +1,34 @@
-# 👨‍💻 Micael Von Liebig
+# Micael Von Liebig
 
-**`Back-end Developer | Node.js | TypeScript`**
+**Desenvolvedor back-end em transição para Engenharia de Dados | SQL · PySpark · Databricks**
 
-Hey there! I'm a `Back-end Developer` who fell in love with technology as a kid and never looked back. Since `2020`, I've been diving deep into software development, turning my passion into my profession.
+Desde 2020 trabalho com desenvolvimento de software, principalmente back-end com Node.js e TypeScript. Agora estou levando essa base para a engenharia de dados: pipelines com PySpark, modelagem com SQL e arquitetura lakehouse no Databricks.
 
-These days, you'll find me working with `Node.js (TypeScript)` and exploring `Cloud` technologies.
+Aprendo construindo: cada etapa dos meus estudos vira projeto, com o código e as decisões documentados aqui no GitHub.
 
-I love solving problems and creating solutions that make difference. I'm always up for learning something new or tackling an unexpected challenge.
+## 🚧 Projeto em construção
 
-If you're into any of these things too, let's connect! I'm always happy to chat about code, new tech, or collaborate on interesting projects.
+**My Career Tracker:** um pipeline de dados que acompanha a minha própria evolução nos estudos. Os dados passam pelas camadas bronze → silver → gold (arquitetura medalhão) em tabelas Delta, são tratados com PySpark e SQL no Databricks e terminam num painel no Power BI.
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
+**Engenharia de dados (foco atual)**
 
-## 📫 Connect with me
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/micaelvonliebig)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:micvonliebig@gmail.com)
+**Experiência anterior (back-end)**
 
-<p align="left">
-    <a href="https://github.com/micaelvonliebig?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/micaelvonliebig?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/micaelvonliebig?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/micaelvonliebig?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 Stats
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=micaelvonliebig&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelvonliebig&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-</p>
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/micaelvonliebig)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micvonliebig@gmail.com)
